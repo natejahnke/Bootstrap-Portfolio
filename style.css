@@ -1,0 +1,17 @@
+body {
+  background: #17181A;
+  padding-bottom: 100px;
+  
+}
+
+a {
+	color: white;
+}
+
+.portImg {
+    width: 100%;
+}
+
+.row-m-t{
+  margin-top : 20px
+}
